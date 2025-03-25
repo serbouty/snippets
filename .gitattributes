@@ -1,0 +1,15 @@
+# Default
+*                   text=auto
+
+# Sources
+*.cpp               text diff=cpp
+*.h                 text diff=cpp
+*.java              text diff=java
+
+# Configuration
+*.text              text
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
